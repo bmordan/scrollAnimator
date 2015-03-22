@@ -4,8 +4,12 @@
   "description": "scroll animation inspired by apple",
   "main": "index.html",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "make": "node assets/make.js"
   },
   "author": "bmordan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "gifsicle": "^2.0.1"
+  }
 }
