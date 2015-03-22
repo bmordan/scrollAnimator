@@ -31,7 +31,9 @@ header h3 {
   line-height: 60px;
   padding: 1% 0;
 }
-.anillax {
-  width: 100%;
-  margin: 0;
+article {
+  display: inline-block;
+  width: 40%;
+  padding: 2%;
+  margin: 2%;
 }
